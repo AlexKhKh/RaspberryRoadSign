@@ -1,16 +1,4 @@
-data/raw/rtsd/
-data/raw/*.jpg
-data/raw/*.jpeg
-data/raw/*.png
-models/*.pt
-models/*.pth
-datasets/rtsd_yolo
-datasets/rtsd_yolo.zip
-__pycache__/
-*.pyc
-.vscode/
-.idea/
-*.log
-.env
-scripts/validate.py
-data/raw/archive
+﻿# YOLO models (скачать отдельно)
+*.pt
+yolo11*.pt
+models/
